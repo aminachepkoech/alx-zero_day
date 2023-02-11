@@ -1,1 +1,1 @@
-My first readme
+Initial instructions for the README.md file
