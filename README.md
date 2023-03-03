@@ -1,3 +1,3 @@
 Initial instructions for the README.md file
 
-Added changes
+Added changes to a few files and directories
